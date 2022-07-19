@@ -1,6 +1,5 @@
 # Immigrants_and_Mainstream
-Replication package to accompany research paper "From Strange to Normal: Computational Approaches to Examining Immigrant Incorporation through Shifts in the Mainstream" by Zachary D. Kline, Andrea Voyer, Madison Danton, and Tatiana Volkova
-
+Replication package to accompany research paper "From Strange to Normal: Computational Approaches to Examining Immigrant Incorporation through Shifts in the Mainstream" by Zachary D. Kline, Andrea Voyer, Madison Danton, and Tatiana Volkova.
 
 The syntax included in this replication package can be used to replicate the analyses presented in the main paper,  and in the accompanying online appendices. Please find here a matching guide:
 
