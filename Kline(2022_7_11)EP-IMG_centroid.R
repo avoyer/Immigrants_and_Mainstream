@@ -3907,6 +3907,7 @@ plot_muslim_normal <- muslim_closeness %>%
   ylim(-3,3) +
   xlab("Year") +
   ggtitle("Muslim") + 
+  ylab('Engagement with "Normal" Pole') +
   geom_smooth(color="grey50", se = TRUE ) + 
   scale_x_continuous(breaks=seq(1920,2020,20)) +
   scale_color_gradient2(low = "grey20", mid="grey50", high = "grey80" ,
