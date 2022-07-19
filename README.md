@@ -7,6 +7,7 @@ Replication package to accompany research paper "From Immigrant to Normal: Compu
 The syntax included in this replication package can be used to replicate the analyses presented in the main paper and in the accompanying online appendices. Please find here a matching guide:
 
 EP-IMP: Results from main analyses. Figures for the online appendix are created and exported from this file: see line 4332
+___________________________________________________________________________________________
 
 EP-IMG_128: Creates results using a less stringent cutoff of 1.28, appendix A
 
