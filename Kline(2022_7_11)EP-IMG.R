@@ -117,11 +117,6 @@ path2file <- "txt_2022_3_28"
 fileList <- list.files(path2file, full.names = TRUE) # Create a list of files in a folder
 
 # Function to read in multiple texts and paste them into a tbl 
-# TO DO HERE:
-#   Identify how to tag chapters, sections, parts, ect 
-#     Should be editions(parts(chapter(section)))
-#   Identify how to change "filename"... can I just change from below "filename?"
-
 
 readTextFiles <- function(file) { 
   message(file)
