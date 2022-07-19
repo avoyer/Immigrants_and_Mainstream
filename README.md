@@ -1,10 +1,8 @@
 # Immigrants_and_Mainstream
-Replication package to accompany research paper "From Immigrant to Normal: Computational approaches to examining trajectories of integration through shifts in the mainstream"
+Replication package to accompany research paper "From Strange to Normal: Computational Approaches to Examining Immigrant Incorporation through Shifts in the Mainstream" by Zachary D. Kline, Andrea Voyer, Madison Danton, and Tatiana Volkova
 
 
-
-
-The syntax included in this replication package can be used to replicate the analyses presented in the main paper and in the accompanying online appendices. Please find here a matching guide:
+The syntax included in this replication package can be used to replicate the analyses presented in the main paper,  and in the accompanying online appendices. Please find here a matching guide:
 
 EP-IMP: Results from main analyses. Figures for the online appendix are created and exported from this file: see line 4332
 ___________________________________________________________________________________________
@@ -32,5 +30,5 @@ EP-IMG_misc: A small sample of miscelanious syntax from preliminary analyses and
 ___________________________________________________________________________________________
 
 
-The 1922 edition is included in this file. Other editions are being used under fair use, meaning they cannot be shared publically.
+The 1922 edition is included in this file. Other editions are being used under fair use, meaning they cannot be shared publically. For queries about research with the full Emily Post corpus, please contact Andrea Voyer.
 
