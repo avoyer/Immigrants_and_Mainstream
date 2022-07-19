@@ -27,9 +27,10 @@ EP-IMG_neutral: Creates results from neutral terms for appendix D
 
 EP-IMG_centroid: Creates results from alternative immigrant specification, appendix E
 
-
-
 EP-IMG_misc: A small sample of miscelanious syntax from preliminary analyses and previous robustness checks, not discussed in the paper
+
+___________________________________________________________________________________________
+
 
 The 1922 edition is included in this file. Other editions are being used under fair use, meaning they cannot be shared publically.
 
