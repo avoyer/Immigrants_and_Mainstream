@@ -28,6 +28,7 @@ EP-IMG_misc: A small sample of miscelanious syntax from preliminary analyses and
 
 ___________________________________________________________________________________________
 
+Accessing the Corpus
 
 The 1922 edition is in the public doman and is included in this repository. Other editions remain under copyright. They were digitized and are being used for research under fair use guidelines, and in conversation with the copyright holder. For queries about research with the full Emily Post corpus, please contact Andrea Voyer (andrea.voyer@sociology.su.se).
 
