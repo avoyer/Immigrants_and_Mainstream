@@ -30,5 +30,4 @@ ________________________________________________________________________________
 
 Accessing the Corpus
 
-The 1922 edition is in the public doman and is included in this repository. Other editions remain under copyright. They were digitized and are being used for research under fair use guidelines, and in conversation with the copyright holder. For queries about research with the full Emily Post corpus, please contact Andrea Voyer (andrea.voyer@sociology.su.se).
-
+The 1922 edition is in the public doman and is included in this repository. Other editions remain under copyright. They were digitized and are being used for research under fair use guidelines, and in conversation with the copyright holder. To request access to the full corpus, please fill out the application form: https://forms.gle/4bf1rAVsEd5E7dmN6 Access will be granted for non-commercial research only, in consultation with the copyright holder, and in light of potential overlaps the planned and ongoing research being carried out by the creator of the corpus.
